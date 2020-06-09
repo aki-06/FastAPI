@@ -9,4 +9,4 @@ databases:
     USER: 'sample_user'
     PASSWORD: 'ChangeMe123'
     HOST: 'mongo'
-    PORT: '27017'
+    PORT: 27017
